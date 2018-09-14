@@ -12,7 +12,7 @@ We will be covering topics, such as...
 
 ... and the list goes on!
 
-**Suggest a new topic:** [HERE]()
+**Suggest a new topic:** [HERE](https://docs.google.com/forms/d/e/1FAIpQLSd8l8pXgCw3ewAHfXz_QhMyYG1mqg5VjBFaRCnBSHcMWHNkcg/viewform?usp=sf_link)
 
 ## Dependencies
 These lectures will be built in Jupyter Notebooks--unless otherwise stated. The following Python modules are frequently used:
