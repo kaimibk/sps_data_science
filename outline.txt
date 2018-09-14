@@ -1,0 +1,77 @@
+Brainstorming Topics for Computational Physics Seminars
+
+The goal of these seminars aren’t to “teach python/C++/etc.” Rather, the goal is to introduce awesome tools in data science (in the context of Physics and Astronomy). These seminars will be open to the whole department (faculty included). I do not mind giving some of these lectures, but it would be interesting if we got guest lecturers--such as Dr. Still--to discuss select topics and take questions.
+
+The following ideas are listed in no particular order, they will be ordered later.
+
+Kernel Density Estimation
+Gaussian Mixture Models
+Applications of Mixture Models
+Clustering
+Classification
+Neural Networks
+Introduction to TensorFlow
+Introduction to Bayesian statistics
+Basics such as Bayes Theorem
+Data Visualization
+Plotly
+Dash
+Boken
+Ggplot
+Seaborn
+matplotlib
+Github
+Version control
+Write good, readable code
+Good code documentation
+Working in a collaboration
+Markdown
+Jupyter Notebooks
+Interactive widgets
+Animations
+Good contact: Richard Perschke (sp?) or any Belle people
+Can be used with BASF2 (Belle 2 Analysis Software Framework)
+Basic Numpy and matplotlib
+Fitting (intro to scipy and the like)
+Overview of Optimization Techniques (i.e.; Newton’s Method, Particle Swarm Optimization, etc.)
+Overview of Supervised Learning
+Least squares
+Nearest neighbors
+Statistical learning theory
+Function approximation
+Model Inference and Averaging
+Bootstrap
+Maximum Likelihood
+Bayesian
+EM Algorithm
+Markov Chain Monte Carlo (MCMC) for sampling from a posterior
+Gibbs sampling
+Metropolis sampling
+Hamiltonian Monte Carlo (HMC)
+No-U-Turn Sampling (NUTS)
+Data Warehouse Implementation and Management
+SQL
+Sqlite
+Sqlalchemy
+PostgreSQL
+etc.
+Building GUIs
+PyQt
+Bokeh
+DASH
+Tkinter
+Signal Processing
+Running C++ code using Python (this might require things like ROOT but that’s a different problem)
+Introduce Cython
+Website development
+Perhaps intro to HTML, JS, CSS--at least enough to use bootstrap css.
+Developing static pages
+Developing dynamic applications
+Introduction to the Django framework
+
+
+Rough Schedule:
+Bi-monthly, ~1 hour meeting time:
+Introduction to terminology, necessary math, etc.
+Follow along exercises
+Overview of other applications
