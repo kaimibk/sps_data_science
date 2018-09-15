@@ -16,7 +16,7 @@ We will be covering topics, such as...
 
 ## Upcoming Seminar
 
-The upcoming event will be ("Introduction to Python")[Introduction/] date and location to be announced
+The upcoming event will be ["Introduction to Python"](Introduction/) date and location to be announced
 
 ## Dependencies
 These lectures will be built in Jupyter Notebooks--unless otherwise stated. The following Python modules are frequently used:
