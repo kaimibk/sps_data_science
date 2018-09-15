@@ -14,6 +14,10 @@ We will be covering topics, such as...
 
 **Suggest a new topic:** [HERE](https://docs.google.com/forms/d/e/1FAIpQLSd8l8pXgCw3ewAHfXz_QhMyYG1mqg5VjBFaRCnBSHcMWHNkcg/viewform?usp=sf_link)
 
+## Upcoming Seminar
+
+The upcoming event will be ("Introduction to Python")[Introduction/] date and location to be announced
+
 ## Dependencies
 These lectures will be built in Jupyter Notebooks--unless otherwise stated. The following Python modules are frequently used:
 
@@ -27,10 +31,6 @@ These lectures will be built in Jupyter Notebooks--unless otherwise stated. The 
 | astropy          | units, constants                       | u, c    | Astronomy constants and unit analysis  |
 
 Any other libraries will be discussed within each lecture.
-
-## Upcoming Seminar
-
-The upcoming event will be "Introduction to Python," date and location to be announced
 
 ## Become a SPS@UHM Member
 
