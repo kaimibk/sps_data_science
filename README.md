@@ -16,7 +16,7 @@ We will be covering topics, such as...
 
 ## Upcoming Seminar
 
-The upcoming event will be ["Introduction to Python"](Introduction/) date and location to be announced
+The upcoming event will be ["Introduction to Numpy"](Introduction/). Tentatively scheduled for **October 16th**, 5pm in WAT 415.
 
 ## Dependencies
 These lectures will be built in Jupyter Notebooks--unless otherwise stated. The following Python modules are frequently used:
@@ -38,4 +38,6 @@ Subscribe to the SPS@UHM ([HERE](https://docs.google.com/forms/d/e/1FAIpQLSe23IU
 
 ## Sponsors
 
-Here is where we would put sponsors...IF WE HAD ANY (teehee).
+These tutorials are sponsored by...
+- University of Hawaii, at Manoa Physics and Astronomy Department
+- Hawaii Data Science Institute (HI-DSI)
