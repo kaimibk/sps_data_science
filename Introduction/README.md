@@ -1,9 +1,12 @@
 ## Available Tutorials
 
-- bootcamp_1.ipynb : Raw code from the "problem solving with Python" workshop, held on 10/6/2019.
-- introduction_python.ipynb : Planning notebook for the bootcamp.
-- introduction_data_science.ipynb : High level introduction answering, "what is data science?" As well as an introductory example using k-means clustering. Introduction to other data science seminars.
-- introduction_numpy.ipynb : Introduction to array manipulation with Numpy.
+| **Name** | **Date** | **Description** |
+|----------------------------------------------|:-----:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [bootcamp_1](bootcamp_1.ipynb) | 10/6 | Raw code from the "problem solving with Python" workshop. |
+| [intro_python](intro_python.ipynb) | -- | Planning notebook for the bootcamp with exercise solutions. |
+| [intro_ds](intro_ds.ipynb) | 10/6 | High level introduction answering, "what is data science?" As well as an introductory example using k-means clustering. Introduction to other data science seminars. |
+| [intro_data_science](intro_data_science.pdf) | 10/6 | Introduction to data science slides. |
+| [intro_numpy](intro_numpy.ipynb) | 10/16 | Introduction to array manipulation with Numpy. |                                                                                                         	|
 
 ## Become a SPS@UHM Member
 
