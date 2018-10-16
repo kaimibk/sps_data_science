@@ -6,7 +6,9 @@
 | [intro_python](intro_python.ipynb) | -- | Planning notebook for the bootcamp with exercise solutions. |
 | [intro_ds](intro_ds.ipynb) | 10/6 | High level introduction answering, "what is data science?" As well as an introductory example using k-means clustering. Introduction to other data science seminars. |
 | [intro_data_science](intro_data_science.pdf) | 10/6 | Introduction to data science slides. |
-| [intro_numpy](intro_numpy.ipynb) | 10/16 | Introduction to array manipulation with Numpy. |                                                                                                         	|
+| [intro_numpy](intro_numpy.ipynb) | 10/16 | Introduction to array manipulation with Numpy. |
+| [intro_numpy_soln](intro_numpy_soln.ipynb) | 10/16 | Introduction to array manipulation with Numpy w/ solutions |
+
 
 ## Become a SPS@UHM Member
 
