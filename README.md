@@ -21,7 +21,7 @@ The upcoming event will discuss the choice of an objective function and introduc
 ## Available Tutorials
 
 | **File Name** | **Date** | **Description** |
-| : --- : | : --- : | : --- : |
+| : ---- : | : ---- : | : ---- : |
 | [intro_ds.ipynb](Introduction/intro_ds.ipynb) | -- | What is data science? |
 | []() | 01/26/19 | Introduction to python programming |
 | [intro_numpy.ipynb](Introduction/intro_numpy.ipynb) | 02/22/19 | Introduction to Numpy |
