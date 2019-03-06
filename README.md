@@ -16,7 +16,7 @@ We will be covering topics, such as...
 
 ## Upcoming Seminar
 
-The upcoming event will be ["Introduction to Numpy"](Introduction/). Tentatively scheduled for **October 16th**, 5pm in WAT 415.
+The upcoming event will discuss the choice of an objective function and introduction to model fitting in python. Scheduled for **March 7th**, 4:30pm in WAT 420.
 
 ## Dependencies
 These lectures will be built in Jupyter Notebooks--unless otherwise stated. The following Python modules are frequently used:
