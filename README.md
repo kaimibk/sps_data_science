@@ -16,7 +16,7 @@ We will be covering topics, such as...
 
 ## Upcoming Seminar
 
-The upcoming event will discuss the choice of an objective function and introduction to model fitting in python. Scheduled for **March 7th**, 4:30pm in WAT 420.
+The upcoming event will discuss the choice of an objective function and introduction to model fitting in python. Scheduled for **March 8th**, 4:30pm in WAT 420.
 
 ## Available Tutorials
 
@@ -25,7 +25,7 @@ The upcoming event will discuss the choice of an objective function and introduc
 | [intro_ds.ipynb](Introduction/intro_ds.ipynb) | N/A | What is data science? |
 | [bootcamp.ipynb](Introduction/bootcamp.ipynb) | 01/26/19 | sdfdsgf |
 | [intro_numpy.ipynb](Introduction/intro_numpy.ipynb) | 02/22/19 | Introduction to Numpy |
-| [Optimization_1.ipynb](Optimization/Optimization_1.ipynb) | 03/07/19 | Introduction to model fitting and statistics |
+| [Optimization_1.ipynb](Optimization/optimization_v2.ipynb) | 03/08/19 | Introduction to model fitting and statistics |
 
 ## Dependencies
 These lectures will be built in Jupyter Notebooks--unless otherwise stated. The following Python modules are frequently used:
