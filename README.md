@@ -23,9 +23,9 @@ The upcoming event will discuss the choice of an objective function and introduc
 | Filename | Date | Description |
 |----------|---------|-------------|
 | [intro_ds.ipynb](Introduction/intro_ds.ipynb) | N/A | What is data science? |
-| [bootcamp.ipynb](Introduction/bootcamp.ipynb) | 01/26/19 | sdfdsgf |
+| [bootcamp.ipynb](Introduction/bootcamp.ipynb) | 01/26/19 | Introduction to programming |
 | [intro_numpy.ipynb](Introduction/intro_numpy.ipynb) | 02/22/19 | Introduction to Numpy |
-| [Optimization_1.ipynb](Optimization/optimization_v2.ipynb) | 03/08/19 | Introduction to model fitting and statistics |
+| [optimization_v2.ipynb](Optimization/optimization_v2.ipynb) | 03/08/19 | Introduction to model fitting and statistics |
 
 ## Dependencies
 These lectures will be built in Jupyter Notebooks--unless otherwise stated. The following Python modules are frequently used:
